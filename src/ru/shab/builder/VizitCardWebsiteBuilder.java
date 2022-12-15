@@ -1,3 +1,5 @@
+//Этот класс реализует нашу абстрактную сущность WebsiteBuilder.
+
 package ru.shab.builder;
 
 public class VizitCardWebsiteBuilder extends WebsiteBuilder {
